@@ -1,0 +1,78 @@
+{
+  "sections_detected": [
+    "Summary",
+    "Education",
+    "Experience",
+    "Projects",
+    "Skills",
+    "Awards and Achievements",
+    "Leadership & Extracurricular Activities",
+    "Coursework (Relevant)"
+  ],
+  "missing_sections": [
+    "Objective Statement"
+  ],
+  "well_written_sections": [
+    "Experience",
+    "Projects",
+    "Awards and Achievements"
+  ],
+  "resume_quality_score": 4,
+  "skills_sentiment_summary": "The sentiment of the Skills and Expertise section is confident and specific, avoiding vagueness. The phrasing uses strong action verbs and quantifiable achievements where possible.",
+  "improvement_suggestions": [
+    "Start with a strong summary/objective statement",
+    "Reorganize and refine the skills section using relevant keywords and quantifiable achievements",
+    "Quantify results in all projects using the STAR method for clarity and impact",
+    "Condense project descriptions, focusing on key accomplishments and quantifiable results",
+    "Tailor the resume to each job application, highlighting the most relevant skills and experiences",
+    "Proofread carefully for grammar and spelling errors",
+    "Consider adding a portfolio link",
+    "Revise Formatting and Structure",
+    "Enhance Professionalism",
+    "Strengthen Skills Section",
+    "Refine Project Descriptions",
+    "Consolidate Information",
+    "Tailor to Specific Roles",
+    "Proofread Carefully",
+    "Reduce Resume Length",
+    "Improve LinkedIn URL",
+    "Improve Formatting Consistency",
+    "Refine Keywords",
+    "Consolidate Project/Study Terminology",
+    "Prioritize Information",
+    "Improve Formatting",
+    "Proofread Carefully",
+    "Use Keywords",
+    "Create a Portfolio Link",
+    "Quantify accomplishments whenever possible",
+    "Tailor your resume",
+    "Stronger Summary",
+    "Consolidated sections",
+    "LinkedIn Profile URL"
+  ],
+  "removing_jargon_recommendation": [
+    "Remove unnecessary phrases like 'highly competitive' and 'showcasing academic excellence'",
+    "Specify types of products instead of vague terms like 'tailored fashion products'",
+    "Quantify marketing results instead of using vague terms like 'achieving on targeted outreach campaigns'",
+    "Quantify improvements in vendor operations",
+    "Add context to the analysis of 4M+ tweets",
+    "Rephrase technical details in project descriptions to focus on outcomes",
+    "Connect findings to specific outcomes or insights",
+    "Specify key elements of blueprints and quantify their impact",
+    "Quantify 'scalable' and mention the number of founders reached",
+    "Summarize key insights from social ventures and resulting strategies",
+    "Specify key findings from user research and how they informed the design",
+    "Quantify the impact of design pillars",
+    "Summarize key findings of the financial model",
+    "Mention specific improvements over existing systems"
+  ],
+  "ats_formatting_recommendation": [
+    "Use a consistent font and size",
+    "Use white space effectively",
+    "Use keywords",
+    "Create a portfolio link",
+    "Use clear headings and subheadings",
+    "Use consistent bullet points",
+    "Spell out abbreviations at first mention"
+  ]
+}
