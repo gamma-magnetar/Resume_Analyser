@@ -6,20 +6,20 @@ This is a AI powered resume analyser , which anlyses your resume and provides yo
 
 The notebook will analyze it and produce a structured JSON file and a PDF file summarizing:
 
-Identify and categorize key sections
+- Identify and categorize key sections
 
-Detect missing or underdeveloped sections
+- Detect missing or underdeveloped sections
 
-Evaluate clarity, professionalism, and completeness. 
+- Evaluate clarity, professionalism, and completeness. 
 
-Assess the sentiment of the skills section
+- Assess the sentiment of the skills section
 
-Resume quality score
+- Resume quality score
 
-Highlight strengths 
+- Highlight strengths 
 
-Generate actionable improvement suggestions  
+- Generate actionable improvement suggestions  
 
-Identify and flag excessive jargon or filler phrases
+- Identify and flag excessive jargon or filler phrases
 
-Suggest ATS-friendly formatting 
+- Suggest ATS-friendly formatting 
