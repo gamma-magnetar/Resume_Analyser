@@ -1,0 +1,50 @@
+{
+  "sections_detected": [
+    "Education",
+    "Awards and Achievements",
+    "Skills and Expertise",
+    "Internships",
+    "Projects",
+    "Competition/Conference",
+    "Coursework Information",
+    "Positions of Responsibility",
+    "Extra Curricular Activities"
+  ],
+  "missing_sections": [
+    "Summary/Objective Statement"
+  ],
+  "well_written_sections": [
+    "Experience",
+    "Projects",
+    "Internships",
+    "Awards and Achievements"
+  ],
+  "resume_quality_score": 9.2,
+  "skills_sentiment_summary": "confident and comprehensive",
+  "improvement_suggestions": [
+    "Add a compelling summary or objective statement",
+    "Refine and categorize the skills section",
+    "Quantify achievements in projects and internships",
+    "Condense the coursework information",
+    "Tailor the resume to each job application",
+    "Use action verbs",
+    "Proofread carefully",
+    "Consider a portfolio"
+  ],
+  "removing_jargon_recommendation": [
+    "Remove cliché phrases",
+    "Specify algorithm types",
+    "Quantify achievements",
+    "Simplify technical descriptions",
+    "Focus on results over methods"
+  ],
+  "ats_formatting_recommendation": [
+    "Use a simple, clean format",
+    "Incorporate relevant keywords",
+    "Quantify results",
+    "Categorize skills",
+    "Use a consistent format for each entry",
+    "Shorten or remove coursework information",
+    "Highlight leadership skills"
+  ]
+}
